@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nursery", "Nursery\Nursery.csproj", "{82DB4680-AF00-46F0-AE1C-337A247B7D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nursery", "Nursery\Nursery.csproj", "{82DB4680-AF00-46F0-AE1C-337A247B7D78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nursery_Domin", "Nursery_Domin\Nursery_Domin.csproj", "{636B6836-114A-48BE-9645-A37810DE7721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nursery_Domin", "Nursery_Domin\Nursery_Domin.csproj", "{636B6836-114A-48BE-9645-A37810DE7721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nursery.Infrastructure", "Nursery.Infrastructure\Nursery.Infrastructure.csproj", "{4131BEEE-1A35-49C3-8D93-7C0530B31523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{636B6836-114A-48BE-9645-A37810DE7721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636B6836-114A-48BE-9645-A37810DE7721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636B6836-114A-48BE-9645-A37810DE7721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4131BEEE-1A35-49C3-8D93-7C0530B31523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4131BEEE-1A35-49C3-8D93-7C0530B31523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4131BEEE-1A35-49C3-8D93-7C0530B31523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4131BEEE-1A35-49C3-8D93-7C0530B31523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

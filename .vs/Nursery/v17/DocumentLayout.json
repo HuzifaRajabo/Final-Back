@@ -1,69 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Nursery\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDb/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery_domin\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|solutionrelative:nursery_domin\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery_domin\\models\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|solutionrelative:nursery_domin\\models\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery_domin\\models\\kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|solutionrelative:nursery_domin\\models\\kind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery_domin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery_domin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|solutionrelative:nursery_domin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\controllers\\sectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\sectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\controllers\\kindscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\kindscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Migrations\\20240924102358_inetial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nursery\\Migrations\\20240924102358_inetial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\dbcontext\\nuserycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\dbcontext\\nuserycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\datos\\sectordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\datos\\sectordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery\\nursery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\nursery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\datos\\plantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\datos\\plantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|c:\\users\\admin\\source\\repos\\nursery\\nursery_domin\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B6836-114A-48BE-9645-A37810DE7721}|Nursery_Domin\\Nursery_Domin.csproj|solutionrelative:nursery_domin\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\datos\\kinddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\datos\\kinddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\datos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\datos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\datos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\datos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\controllers\\sectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\sectorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\controllers\\plantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\plantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery\\controllers\\kindescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DB4680-AF00-46F0-AE1C-337A247B7D78}|Nursery\\Nursery.csproj|solutionrelative:nursery\\controllers\\kindescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131BEEE-1A35-49C3-8D93-7C0530B31523}|Nursery.Infrastructure\\Nursery.Infrastructure.csproj|c:\\users\\admin\\desktop\\final\\nursery\\nursery.infrastructure\\dbcontext\\nurserydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131BEEE-1A35-49C3-8D93-7C0530B31523}|Nursery.Infrastructure\\Nursery.Infrastructure.csproj|solutionrelative:nursery.infrastructure\\dbcontext\\nurserydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Sectors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Kinds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Plants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,216 +75,211 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.Categories [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDb/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "dbo.Categories [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-24T11:42:35.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SectorsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\SectorsController.cs",
-              "RelativeDocumentMoniker": "Nursery\\Controllers\\SectorsController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\SectorsController.cs",
-              "RelativeToolTip": "Nursery\\Controllers\\SectorsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:29:19.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlantsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\PlantsController.cs",
-              "RelativeDocumentMoniker": "Nursery\\Controllers\\PlantsController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\PlantsController.cs",
-              "RelativeToolTip": "Nursery\\Controllers\\PlantsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:28:39.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "KindsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\KindsController.cs",
-              "RelativeDocumentMoniker": "Nursery\\Controllers\\KindsController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\KindsController.cs",
-              "RelativeToolTip": "Nursery\\Controllers\\KindsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:27:55.871Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "InvoicesController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\InvoicesController.cs",
-              "RelativeDocumentMoniker": "Nursery\\Controllers\\InvoicesController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\InvoicesController.cs",
-              "RelativeToolTip": "Nursery\\Controllers\\InvoicesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Title": "SectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\SectorsController.cs",
+              "RelativeDocumentMoniker": "Nursery\\Controllers\\SectorsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\SectorsController.cs",
+              "RelativeToolTip": "Nursery\\Controllers\\SectorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:27:11.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Nursery\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Nursery\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAkwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:25:55.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T13:14:48.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20240924102358_inetial.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Migrations\\20240924102358_inetial.cs",
-              "RelativeDocumentMoniker": "Nursery\\Migrations\\20240924102358_inetial.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Migrations\\20240924102358_inetial.cs",
-              "RelativeToolTip": "Nursery\\Migrations\\20240924102358_inetial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Title": "PlantesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\PlantesController.cs",
+              "RelativeDocumentMoniker": "Nursery\\Controllers\\PlantesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\PlantesController.cs",
+              "RelativeToolTip": "Nursery\\Controllers\\PlantesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:23:58.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T13:14:40.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Nursery",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Nursery.csproj",
-              "RelativeDocumentMoniker": "Nursery\\Nursery.csproj",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Nursery.csproj",
-              "RelativeToolTip": "Nursery\\Nursery.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-24T10:16:03.409Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "KindesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\KindesController.cs",
+              "RelativeDocumentMoniker": "Nursery\\Controllers\\KindesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\KindesController.cs",
+              "RelativeToolTip": "Nursery\\Controllers\\KindesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:14:37.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NuseryContext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\DBContext\\NuseryContext.cs",
-              "RelativeDocumentMoniker": "Nursery\\DBContext\\NuseryContext.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\DBContext\\NuseryContext.cs",
-              "RelativeToolTip": "Nursery\\DBContext\\NuseryContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAARAAAA",
+              "DocumentIndex": 8,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "Nursery\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "Nursery\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:13:39.853Z",
+              "WhenOpened": "2024-09-25T13:14:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Nursery\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Nursery\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:10:48.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\SectorDTO.cs",
+              "RelativeDocumentMoniker": "Nursery\\Datos\\SectorDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\SectorDTO.cs",
+              "RelativeToolTip": "Nursery\\Datos\\SectorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:57:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\PlantDTO.cs",
+              "RelativeDocumentMoniker": "Nursery\\Datos\\PlantDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\PlantDTO.cs",
+              "RelativeToolTip": "Nursery\\Datos\\PlantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:57:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KindDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\KindDTO.cs",
+              "RelativeDocumentMoniker": "Nursery\\Datos\\KindDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\KindDTO.cs",
+              "RelativeToolTip": "Nursery\\Datos\\KindDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:57:16.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "Nursery\\Datos\\InvoiceDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\InvoiceDTO.cs",
+              "RelativeToolTip": "Nursery\\Datos\\InvoiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:52:42.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Models\\Category.cs",
+              "RelativeToolTip": "Nursery_Domin\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:48:47.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Program.cs",
-              "RelativeDocumentMoniker": "Nursery\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\Program.cs",
-              "RelativeToolTip": "Nursery\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCQAAAAlAAAA",
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Nursery\\Datos\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Datos\\CategoryDTO.cs",
+              "RelativeToolTip": "Nursery\\Datos\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:09:10.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\appsettings.json",
-              "RelativeDocumentMoniker": "Nursery\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery\\appsettings.json",
-              "RelativeToolTip": "Nursery\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T09:58:53.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T12:45:48.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sector.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Sector.cs",
-              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Sector.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Sector.cs",
-              "RelativeToolTip": "Nursery_Domin\\Models\\Sector.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:30:15.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Invoice.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Invoice.cs",
-              "RelativeToolTip": "Nursery_Domin\\Models\\Invoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:29:26.521Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\appsettings.json",
+              "RelativeDocumentMoniker": "Nursery\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\appsettings.json",
+              "RelativeToolTip": "Nursery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T12:38:17.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Plant.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Plant.cs",
-              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Plant.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Plant.cs",
-              "RelativeToolTip": "Nursery_Domin\\Models\\Plant.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBAAAAAYAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Program.cs",
+              "RelativeDocumentMoniker": "Nursery\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery\\Program.cs",
+              "RelativeToolTip": "Nursery\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:28:56.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T12:37:03.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Kind.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Kind.cs",
-              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Kind.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Kind.cs",
-              "RelativeToolTip": "Nursery_Domin\\Models\\Kind.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "DocumentIndex": 13,
+              "Title": "NurseryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery.Infrastructure\\DBContext\\NurseryDbContext.cs",
+              "RelativeDocumentMoniker": "Nursery.Infrastructure\\DBContext\\NurseryDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery.Infrastructure\\DBContext\\NurseryDbContext.cs",
+              "RelativeToolTip": "Nursery.Infrastructure\\DBContext\\NurseryDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:28:28.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T12:33:28.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Nursery_Domin\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Nursery\\Nursery_Domin\\Models\\Category.cs",
-              "RelativeToolTip": "Nursery_Domin\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T09:27:22.277Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "dbo.Sectors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Sectors.sql",
+              "ToolTip": "dbo.Sectors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-25T12:30:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Plants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Plants.sql",
+              "ToolTip": "dbo.Plants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-25T12:30:25.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Kinds [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/NurseryDB/True/SqlTable/dbo.Kinds.sql",
+              "ToolTip": "dbo.Kinds [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-25T12:30:20.476Z"
             }
           ]
         }

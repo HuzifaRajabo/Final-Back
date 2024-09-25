@@ -8,9 +8,10 @@ namespace Nursery_Domin.Models
 {
     public class Invoice
     {
-        public Guid Id { get; set; }
+        public int InvoiceId { get; set; }
         public DateTime Date { get; set; }
         public List<Plant> Plants { get; set; } = new List<Plant>();
         public decimal Price { get; set; }
+        public bool IsSeld { get; set; }
     }
 }

@@ -20,3 +20,4 @@ C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery_Domi
 C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\refint\Nursery_Domin.dll
 C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery_Domin.pdb
 C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\ref\Nursery_Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery_Domin.sourcelink.json

@@ -8,8 +8,8 @@ namespace Nursery_Domin.Models
 {
     public class Sector
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
+        public int SectorId { get; set; }
+        public string SectorName { get; set; }
         public List<Kind> kinds { get; set; } = new List<Kind>();
     }
 }
