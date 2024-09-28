@@ -2,8 +2,6 @@ C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nur
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery.Infrastructure.runtimeconfig.json
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery.Infrastructure.dll
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery.Infrastructure.pdb
-C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery_Domin.dll
-C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery_Domin.pdb
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\Nursery.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\Nursery.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\Nursery.Infrastructure.AssemblyInfoInputs.cache
@@ -16,3 +14,5 @@ C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\ref
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\Nursery.Infrastructure.pdb
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\Nursery.Infrastructure.genruntimeconfig.cache
 C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\obj\Debug\net8.0\ref\Nursery.Infrastructure.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery.Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery.Infrastructure\bin\Debug\net8.0\Nursery.Domin.pdb

@@ -22,7 +22,7 @@ namespace Nursery.Infrastructure.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Nursery_Domin.Models.Category", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Category", b =>
                 {
                     b.Property<int>("CategoryId")
                         .ValueGeneratedOnAdd()
@@ -36,32 +36,10 @@ namespace Nursery.Infrastructure.Migrations
 
                     b.HasKey("CategoryId");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Invoice", b =>
-                {
-                    b.Property<int>("InvoiceId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InvoiceId"));
-
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("datetime2");
-
-                    b.Property<bool>("IsSeld")
-                        .HasColumnType("bit");
-
-                    b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.HasKey("InvoiceId");
-
-                    b.ToTable("Invoices");
-                });
-
-            modelBuilder.Entity("Nursery_Domin.Models.Kind", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Kind", b =>
                 {
                     b.Property<int>("KindId")
                         .ValueGeneratedOnAdd()
@@ -85,16 +63,19 @@ namespace Nursery.Infrastructure.Migrations
 
                     b.HasIndex("SectorId");
 
-                    b.ToTable("Kinds");
+                    b.ToTable("Kinds", (string)null);
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Plant", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Plant", b =>
                 {
                     b.Property<int>("PlantId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PlantId"));
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
 
                     b.Property<string>("Barcode")
                         .IsRequired()
@@ -106,11 +87,21 @@ namespace Nursery.Infrastructure.Migrations
                     b.Property<DateTime?>("DisposalDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("InvoiceId")
-                        .HasColumnType("int");
+                    b.Property<bool>("IsRestaurant")
+                        .HasColumnType("bit");
 
-                    b.Property<DateTime?>("SaleDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("PlantName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("PricePay")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("PriceSel")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("PurchaseInvoiceId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Source")
                         .IsRequired()
@@ -121,14 +112,83 @@ namespace Nursery.Infrastructure.Migrations
 
                     b.HasKey("PlantId");
 
-                    b.HasIndex("InvoiceId");
+                    b.HasIndex("PurchaseInvoiceId");
 
                     b.HasIndex("kindId");
 
-                    b.ToTable("Plants");
+                    b.ToTable("Plants", (string)null);
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Sector", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.PurchaseInvoice", b =>
+                {
+                    b.Property<int>("PurchaseInvoiceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PurchaseInvoiceId"));
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("PlantId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("PurchaseInvoiceId");
+
+                    b.ToTable("PurchaseInvoices", (string)null);
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.SaleInvoice", b =>
+                {
+                    b.Property<int>("SaleInvoiceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SaleInvoiceId"));
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("CurrencyCodePlant")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("PlantId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("SaleInvoiceId");
+
+                    b.ToTable("SaleInvoices", (string)null);
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.SaleInvoicePlant", b =>
+                {
+                    b.Property<int>("SaleInvoiceId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PlantId")
+                        .HasColumnType("int");
+
+                    b.HasKey("SaleInvoiceId", "PlantId");
+
+                    b.HasIndex("PlantId");
+
+                    b.ToTable("SaleInvoicePlants", (string)null);
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.Sector", b =>
                 {
                     b.Property<int>("SectorId")
                         .ValueGeneratedOnAdd()
@@ -142,18 +202,52 @@ namespace Nursery.Infrastructure.Migrations
 
                     b.HasKey("SectorId");
 
-                    b.ToTable("Sectors");
+                    b.ToTable("Sectors", (string)null);
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Kind", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.SectorPlant", b =>
                 {
-                    b.HasOne("Nursery_Domin.Models.Category", "Category")
+                    b.Property<int>("SectorId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PlantId")
+                        .HasColumnType("int");
+
+                    b.HasKey("SectorId", "PlantId");
+
+                    b.HasIndex("PlantId");
+
+                    b.ToTable("SectorPlants", (string)null);
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.Store", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PlantId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Stores", (string)null);
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.Kind", b =>
+                {
+                    b.HasOne("Nursery.Domin.Models.Category", "Category")
                         .WithMany("kinds")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Nursery_Domin.Models.Sector", "Sector")
+                    b.HasOne("Nursery.Domin.Models.Sector", "Sector")
                         .WithMany("kinds")
                         .HasForeignKey("SectorId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -164,38 +258,94 @@ namespace Nursery.Infrastructure.Migrations
                     b.Navigation("Sector");
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Plant", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Plant", b =>
                 {
-                    b.HasOne("Nursery_Domin.Models.Invoice", null)
+                    b.HasOne("Nursery.Domin.Models.PurchaseInvoice", "PurchaseInvoice")
                         .WithMany("Plants")
-                        .HasForeignKey("InvoiceId");
+                        .HasForeignKey("PurchaseInvoiceId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
-                    b.HasOne("Nursery_Domin.Models.Kind", "kind")
+                    b.HasOne("Nursery.Domin.Models.Kind", "kind")
                         .WithMany("Plants")
                         .HasForeignKey("kindId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("PurchaseInvoice");
+
                     b.Navigation("kind");
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Category", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.SaleInvoicePlant", b =>
+                {
+                    b.HasOne("Nursery.Domin.Models.Plant", "Plant")
+                        .WithMany("SaleInvoicePlants")
+                        .HasForeignKey("PlantId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("Nursery.Domin.Models.SaleInvoice", "SaleInvoice")
+                        .WithMany("SaleInvoicePlants")
+                        .HasForeignKey("SaleInvoiceId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Plant");
+
+                    b.Navigation("SaleInvoice");
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.SectorPlant", b =>
+                {
+                    b.HasOne("Nursery.Domin.Models.Plant", "Plant")
+                        .WithMany("SectorPlants")
+                        .HasForeignKey("PlantId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("Nursery.Domin.Models.Sector", "Sector")
+                        .WithMany("Sectorplants")
+                        .HasForeignKey("SectorId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Plant");
+
+                    b.Navigation("Sector");
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.Category", b =>
                 {
                     b.Navigation("kinds");
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Invoice", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Kind", b =>
                 {
                     b.Navigation("Plants");
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Kind", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.Plant", b =>
+                {
+                    b.Navigation("SaleInvoicePlants");
+
+                    b.Navigation("SectorPlants");
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.PurchaseInvoice", b =>
                 {
                     b.Navigation("Plants");
                 });
 
-            modelBuilder.Entity("Nursery_Domin.Models.Sector", b =>
+            modelBuilder.Entity("Nursery.Domin.Models.SaleInvoice", b =>
                 {
+                    b.Navigation("SaleInvoicePlants");
+                });
+
+            modelBuilder.Entity("Nursery.Domin.Models.Sector", b =>
+                {
+                    b.Navigation("Sectorplants");
+
                     b.Navigation("kinds");
                 });
 #pragma warning restore 612, 618

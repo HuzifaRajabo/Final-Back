@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\bin\Debug\net8.0\Nursery.Domin.deps.json
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\bin\Debug\net8.0\Nursery.Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\bin\Debug\net8.0\Nursery.Domin.pdb
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.AssemblyInfo.cs
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.sourcelink.json
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\refint\Nursery.Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.pdb
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\ref\Nursery.Domin.dll
+C:\Users\admin\Desktop\final\Nursery\Nursery_Domin\obj\Debug\net8.0\Nursery.Domin.csproj.AssemblyReference.cache

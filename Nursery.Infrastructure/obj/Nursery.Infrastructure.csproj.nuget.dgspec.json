@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery_Domin.csproj": {
-                "projectPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery_Domin.csproj"
+              "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery.Domin.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery.Domin.csproj"
               }
             }
           }
@@ -85,12 +85,12 @@
         }
       }
     },
-    "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery_Domin.csproj": {
+    "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery.Domin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery_Domin.csproj",
-        "projectName": "Nursery_Domin",
-        "projectPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery_Domin.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery.Domin.csproj",
+        "projectName": "Nursery.Domin",
+        "projectPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\Nursery.Domin.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\admin\\Desktop\\final\\Nursery\\Nursery_Domin\\obj\\",
         "projectStyle": "PackageReference",
@@ -126,6 +126,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

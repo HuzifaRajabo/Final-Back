@@ -1,5 +1,5 @@
 ﻿using Nursery.Infrastructure.DBContext;
-using Nursery_Domin.Models;
+using Nursery.Domin.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

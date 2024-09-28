@@ -11,7 +11,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
-          "Nursery_Domin": "1.0.0"
+          "Nursery.Domin": "1.0.0"
         },
         "runtime": {
           "Nursery.Infrastructure.dll": {}
@@ -927,9 +927,12 @@
           }
         }
       },
-      "Nursery_Domin/1.0.0": {
+      "Nursery.Domin/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8"
+        },
         "runtime": {
-          "Nursery_Domin.dll": {}
+          "Nursery.Domin.dll": {}
         }
       }
     }
@@ -1472,7 +1475,7 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "Nursery_Domin/1.0.0": {
+    "Nursery.Domin/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

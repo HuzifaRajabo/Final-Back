@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nursery_Domin.Models
+namespace Nursery.Domin.Models
 {
     public class Category
     {

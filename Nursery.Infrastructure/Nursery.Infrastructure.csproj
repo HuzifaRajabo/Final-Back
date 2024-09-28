@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Nursery_Domin\Nursery_Domin.csproj" />
+    <ProjectReference Include="..\Nursery_Domin\Nursery.Domin.csproj" />
   </ItemGroup>
 
 </Project>
